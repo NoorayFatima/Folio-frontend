@@ -1,4 +1,4 @@
-# Folio — Editorial Knowledge Vault (Frontend)
+# Folio : Editorial Knowledge Vault (Frontend)
 
 Folio is a premium, research-focused web application designed for developers and researchers to capture, categorize, and preserve technical intelligence. Moving away from standard dashboard aesthetics, Codex utilizes a "Modern Archive" design language inspired by high-end digital editorials.
 
